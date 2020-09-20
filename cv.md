@@ -37,3 +37,10 @@ Completed projects:
 - [Recipe Finder App](https://github.com/gunnner/forkify)  
 
 After completing this course, I learned about the basics of Javascript (objects, functions), events and manipulations with the DOM, ES6, a little about asynchronous Javascript (Promise, Async/Await).  
+
+## Education 
+In 2012 I'am graduated from the Cherkasy State Technological University  
+Specialty: electrical systems
+
+## English Level
+My English level is in the range from B1 Intermediate to B2 Upper Intermediate, according to the passed test on the [https://www.efset.org](https://www.efset.org)
